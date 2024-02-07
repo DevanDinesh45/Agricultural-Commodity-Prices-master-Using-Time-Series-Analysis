@@ -1,9 +1,10 @@
 # Agricultural-Commodity-Prices-master-Using-Time-Series-Analysis
 
-Agricultural Commodity Prices Analysis Using Time Series Analysis
+Agricultural Commodity Prices Analysis Using Time Series Analysis. 
+
 This project aims to analyze agricultural commodity prices using time series analysis techniques. By analyzing historical price data, the project seeks to uncover trends, patterns, and seasonality in commodity prices, enabling better decision-making for farmers, traders, and policymakers in the agricultural sector.
 
-Table of Contents
+Table of Contents:
 Introduction
 Features
 Requirements
